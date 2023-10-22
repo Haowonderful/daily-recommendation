@@ -2,7 +2,7 @@
 
 # How to run the project locally?
 
-1. Make sure you have node 18.x.x locall.
+1. Make sure you have node 18.x.x locally.
 2. Clone the repo into your local and run "npm install".
 3. Run "npm run start".
 4. Go to http://localhost:3000/
